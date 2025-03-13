@@ -9,9 +9,9 @@ The initial orbit is defined with hp=100km and ha=10000km around the Moon.
 
 - [Installation](#installation)
 - [Presentation](#presentation)
-- [Code structure](#code)
+- [Code structure](#code-structure)
 - [Results](#results)
-- [Additional questions](#additional)
+- [Additional questions](#additional-questions)
 
 ## Installation
 
